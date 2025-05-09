@@ -29,3 +29,6 @@ Documentation:
 
 https://kubernetes.io/docs/concepts/architecture/
 
+Youtybe Video in Urdu:
+
+https://youtu.be/7ZObcqEq7hU?si=IQMkn_DiXzKygZ5h
