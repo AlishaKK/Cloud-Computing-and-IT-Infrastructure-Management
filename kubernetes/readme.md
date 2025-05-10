@@ -50,6 +50,25 @@
 
 ![image](https://github.com/user-attachments/assets/d9754968-ef6e-4f3a-a202-1238c8663c65)
 
+imagine a Cluster as a group of computers working together.
+
+Each computer in the group is called a Node.
+
+Inside each Node, you can have one or more Pods. Think of a Pod as a small box where your applications run.
+
+So, a Cluster has many Nodes, and each Node can have many Pods running your software. Simple!
+
+
+![image](https://github.com/user-attachments/assets/484331a1-7e68-4461-970a-bc0624090627)
+
+ think of a Pod as a single apartment.
+
+Inside that Pod (apartment), you can have one or more Containers (rooms).
+
+So, a Pod is the smallest unit in Kubernetes, and it can hold one or more running Containers. Easy peasy!
+
+
+
 
 Documentation:
 
