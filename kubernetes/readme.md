@@ -138,3 +138,12 @@ Youtube Video:
 
 https://youtu.be/ZLZLheMfegM?si=i4FZff2NVQKfQNPW
 
+### Helm
+
+**Helm is a tool that simplifies deploying and managing applications on Kubernetes, like a package manager for your cloud software.**
+
+documentation:
+
+
+https://helm.sh/docs/
+
