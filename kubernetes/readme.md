@@ -147,3 +147,11 @@ documentation:
 
 https://helm.sh/docs/
 
+
+### Rancher Destop:
+
+
+documentation:
+
+https://docs.rancherdesktop.io/getting-started/installation/
+
