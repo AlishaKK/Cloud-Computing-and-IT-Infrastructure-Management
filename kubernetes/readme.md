@@ -26,6 +26,27 @@
 ![image](https://github.com/user-attachments/assets/362a8f03-ed56-4598-afc4-46dd97eed567)
 
 
+
+* **Developer (You):** You're the boss who wants to run your applications. You talk to the **API Server** (the main office). You tell it what you want to do.
+
+* **Master Node (Head Office):** This is the brain of the operation. It has a few key people:
+    * **API Server:** The front desk. It receives your orders and tells everyone else what to do.
+    * **Controller:** The manager. It makes sure everything in the company is running as it should. If something goes wrong, it tries to fix it.
+    * **Scheduler:** The planner. When you want to run a new application, the scheduler decides which **Worker Node** (employee) is best suited for the job.
+    * **Key Value Store (ETCD):** The company's record keeper. It stores all the important information about how the company is set up and what's running.
+
+* **Worker Node (Employees):** These are the workhorses that actually run your applications. Each one has:
+    * **Kubelet:** The local manager on each employee's desk. It listens to instructions from the **API Server** and makes sure things get done.
+    * **Container Runtime (Docker):** The actual worker who runs your application inside a **Container** (a packaged environment). Think of it as the employee using a specific tool to do their job.
+    * **Network Proxy (Kube-Proxy):** The communication officer. It makes sure that users and other applications can reach your running applications correctly.
+    * **Pod:** This is the workspace where one or more **Containers** (your applications) run. Think of it as an employee's cubicle.
+
+* **Users:** These are the people who use the applications you've deployed. They access them through the network.
+
+**In short:** You (Developer) give instructions to the Head Office (**Master Node**). The Head Office decides where your work should be done and tells the Employees (**Worker Nodes**) what to do. The Employees then run your applications in their workspaces (**Pods**), using specific tools (**Containers**), and the communication officer (**Network Proxy**) makes sure everyone can connect. The Head Office keeps track of everything in its records (**ETCD**) and has a manager (**Controller**) making sure everything is running smoothly.
+
+
+
 **Control Plane (Master Node):**
 
 * **Client (kubectl, UI, CLI):** Tools that users interact with to manage the Kubernetes cluster.
