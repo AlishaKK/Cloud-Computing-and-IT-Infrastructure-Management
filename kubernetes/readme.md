@@ -56,7 +56,9 @@ Okay, imagine this diagram as the blueprint of our smart business management sys
 **In short:** You tell the **Master** what you want via the **UI** or **CLI**. The **Master** decides where it should run on the **Worker Nodes**. The **Worker Nodes**, using **Docker**, run your applications in **Containers** inside **Pods**, and **Kubelet** and **Kube-proxy** manage things locally and handle communication.
 
 
-### Different Components of kubernetes
+
+
+### **Different Components of kubernetes**
 
 
 
