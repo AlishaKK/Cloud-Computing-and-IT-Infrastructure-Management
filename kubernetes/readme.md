@@ -70,7 +70,10 @@ https://youtu.be/7ZObcqEq7hU?si=IQMkn_DiXzKygZ5h
 
 Argo CD automates Kubernetes application deployments using GitOps. It continuously monitors Git repositories and syncs the desired application state to your clusters, ensuring consistency, reliability, and easier rollbacks.
 
-documentation:
+![image](https://github.com/user-attachments/assets/b1f6d1df-a58e-4078-b29d-132b46c162db)
+
+
+Documentation:
 
 https://argo-cd.readthedocs.io/en/stable/
 
