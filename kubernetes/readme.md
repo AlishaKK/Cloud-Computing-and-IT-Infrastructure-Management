@@ -1,6 +1,9 @@
 ### **Kubernetes:**
 
 * **Definition:** Automates container deployment, scaling, and management.
+  
+  ![image](https://github.com/user-attachments/assets/87d9fff4-2256-4099-9ab1-abf2d69f4b8a)
+
 
 **Why Use It?**
 
