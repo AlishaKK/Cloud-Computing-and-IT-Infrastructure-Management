@@ -38,7 +38,7 @@
 **Worker Node:**
 
 * **Kubelet:** An agent that runs on each node and ensures that containers are running in pods.
-* **Kube-proxy:** A network proxy that runs on each node, implementing Kubernetes service concepts.
+* **Kube-proxy:** A network proxy that runs on each node, implementing Kubernetes service concepts.(load balance)
 * **Container-runtime:** The underlying software (e.g., Docker, containerd) that runs containers.
 * **Worker Node:** A machine in the Kubernetes cluster that runs your applications in pods.
 * **Container Node:** Another term often used interchangeably with "Worker Node," referring to a machine that runs containers managed by Kubernetes.
