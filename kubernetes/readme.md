@@ -2,7 +2,7 @@
 
 * **Definition:** Automates container deployment, scaling, and management.
   
-![image](https://github.com/user-attachments/assets/438d9045-0c6a-4d36-93ed-93727b0647c4)
+![image](https://github.com/user-attachments/assets/06001415-96b2-4b0c-a704-1e0d6c7cd431)
 
 
 **Why Use It?**
