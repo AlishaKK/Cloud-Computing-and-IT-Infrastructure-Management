@@ -1,6 +1,7 @@
 ### **Kubernetes:**
 
-* **Definition:** Automates container deployment, scaling, and management.
+
+Kubernetes is a system for automatically managing and scaling applications that run in containers. It helps deploy, maintain, and grow these applications efficiently across a set of computers (nodes).
 
   ![image](https://github.com/user-attachments/assets/362a8f03-ed56-4598-afc4-46dd97eed567)
 
