@@ -102,7 +102,7 @@ So, a Cluster has many Nodes, and each Node can have many Pods running your soft
 
 Inside that Pod (apartment), you can have one or more Containers (rooms).
 
-So, a Pod is the smallest unit in Kubernetes, and it can hold one or more running Containers. Easy peasy!
+So, a Pod is the smallest unit in Kubernetes, and it can hold one or more running Containers. 
 
 
 
