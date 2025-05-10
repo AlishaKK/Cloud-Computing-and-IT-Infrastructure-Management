@@ -48,6 +48,7 @@
 * **Pod:** The smallest deployable unit in Kubernetes, representing a group of one or more containers that share storage and network resources.
 
 
+![image](https://github.com/user-attachments/assets/d9754968-ef6e-4f3a-a202-1238c8663c65)
 
 
 Documentation:
