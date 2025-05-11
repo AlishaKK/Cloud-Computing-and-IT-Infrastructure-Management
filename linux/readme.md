@@ -17,6 +17,9 @@
 
 Linux is the open-source core (kernel) of an operating system that acts as the fundamental software managing your computer's hardware and allowing other programs to run.
 
+![image](https://github.com/user-attachments/assets/067964f4-3961-486f-b78d-94ef9810c1c0)
+
+
 Advantages of Linux :
 
 * **Free:** No cost to use or distribute.
