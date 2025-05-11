@@ -10,7 +10,7 @@
 * **Resource Management:** It efficiently organizes the computer's brain (CPU), memory (RAM), and storage.
 * **User Interaction:** It provides the interface (icons, touchscreens) that allows us to use the device.
 
-  Okay, let's look at some important terms when comparing Windows OS and Linux, keeping in mind how they might be relevant in Pakistan:
+   important terms when comparing Windows OS and Linux:
 
 | Term             | Windows OS                                     | Linux                                                | Short Comparison                                                 |
 |------------------|-------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------------|
