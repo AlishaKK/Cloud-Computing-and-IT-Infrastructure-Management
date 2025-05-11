@@ -43,7 +43,11 @@ Documentation:
 
 https://www.geeksforgeeks.org/linux-directory-structure/
 
-Youtube video:
+Youtube video in English:
+
+https://youtu.be/sWbUDq4S6Y8?si=OZv7XnqCa-ibQujC
+
+Youtube video in  urdu/hindi
 
 
 
