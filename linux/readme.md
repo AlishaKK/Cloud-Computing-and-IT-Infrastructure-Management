@@ -1,9 +1,10 @@
 
 ### What is an Operating System (OS)?
 
-**Operating System (OS) :** The core software that manages a computer's hardware and provides a platform for applications to run, making the device usable for users.
 
-**Why We Use an OS:**
+   **Operating System (OS) :** The core software that manages a computer's hardware and provides a platform for applications to run, making the device usable for users.
+
+   **Why We Use an OS:**
 
 * **Enables Hardware Functionality:** The OS tells the physical parts (screen, keyboard, etc.) how to work.
 * **Platform for Apps:** It creates the environment needed for software like WhatsApp or web browsers to run.
