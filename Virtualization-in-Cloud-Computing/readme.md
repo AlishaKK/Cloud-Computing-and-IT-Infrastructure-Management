@@ -45,3 +45,5 @@ A company needs four servers for different tasks (e.g., website, database, payro
 - **Cloud Computing**: Service model using virtualization to deliver resources (like servers, storage) over the internet.
 
 https://www.geeksforgeeks.org/virtualization-cloud-computing-types/
+
+https://youtu.be/MnU-t31MtRY?si=K8sWLfYQktW0Frvg
