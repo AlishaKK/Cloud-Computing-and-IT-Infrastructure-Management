@@ -42,3 +42,10 @@ The diagram shows that the **Kernel** and **Kernel Modules** interact directly w
 Documentation:
 
 https://www.geeksforgeeks.org/linux-directory-structure/
+
+Youtube video:
+
+
+
+https://youtu.be/CTZfWmMAdoI?si=-zmeM8iNnjoTLHkG
+
