@@ -28,6 +28,8 @@ Advantages of Linux :
 * **Great for Servers:** Industry standard for reliability.
 * **Powerful Command Line:** Efficient for advanced tasks.
 * **Low Resource Use:** Can run well on older hardware.
+
+  
 ![image](https://github.com/user-attachments/assets/0a5d07f9-c4cc-4c04-a468-e40184f91679)
 
 
