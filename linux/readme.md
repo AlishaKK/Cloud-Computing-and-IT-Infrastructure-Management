@@ -78,6 +78,8 @@ The diagram shows that the **Kernel** and **Kernel Modules** interact directly w
 
 https://www.geeksforgeeks.org/linux-file-hierarchy-structure/
 
+https://youtu.be/6OfP7lf9Hjw?si=PEUX4guKN59jq-8x
+
 ![image](https://github.com/user-attachments/assets/94e673fe-22da-4bec-8bfa-6314093dee51)
 
 
