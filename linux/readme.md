@@ -101,3 +101,8 @@ Youtube video in  urdu/hindi
 
 https://youtu.be/CTZfWmMAdoI?si=-zmeM8iNnjoTLHkG
 
+
+### 50+ Essential Linux Commands:
+
+
+https://www.digitalocean.com/community/tutorials/linux-commands
