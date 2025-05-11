@@ -74,6 +74,12 @@ Advantages of Linux :
 
 The diagram shows that the **Kernel** and **Kernel Modules** interact directly with the **Hardware**. The **System Libraries** provide support for the **System Softwares**, **User Processes**, **User Utilities**, and **Compilers**, enabling them to run on the Linux operating system.
 
+### Linux File Hierarchy Structure
+
+https://www.geeksforgeeks.org/linux-file-hierarchy-structure/
+
+![image](https://github.com/user-attachments/assets/94e673fe-22da-4bec-8bfa-6314093dee51)
+
 
 Documentation:
 
