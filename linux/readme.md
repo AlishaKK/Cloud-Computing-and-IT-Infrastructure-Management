@@ -1,7 +1,7 @@
 
 ### What is an Operating System (OS)?
 
-**Operating System (OS) Defined:** The core software that manages a computer's hardware and provides a platform for applications to run, making the device usable for users.
+**Operating System (OS) :** The core software that manages a computer's hardware and provides a platform for applications to run, making the device usable for users.
 
 **Why We Use an OS:**
 
