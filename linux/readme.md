@@ -111,7 +111,13 @@ https://www.digitalocean.com/community/tutorials/linux-commands
 
 A hypervisor is a form of virtualization software used in Cloud hosting to divide and allocate the resources on various pieces of hardware.
 
+Documentation:
+
 https://www.geeksforgeeks.org/hypervisor/
+
+Youtube video:
+
+https://youtu.be/73XTW67TOZ0?si=jPYkjNhTvcGx5yEo
 
 ![image](https://github.com/user-attachments/assets/8fd51027-c366-476d-afe9-7a171ca8388d)
 
